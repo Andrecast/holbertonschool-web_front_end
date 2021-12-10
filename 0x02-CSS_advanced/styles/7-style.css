@@ -13,6 +13,7 @@
     --font-size-large: 1.8rem;
     --font-size-x-large: 2.3rem;
     --font-size-xx-large: 4.8rem;
+    /* Que tan gruesa es la fuente */
     --font-weight-regular: 400; /* 400: grueso normal de la fuente*/
     --font-weight-bold: 700; /* 700: grueso ancho, negrita */
 }
