@@ -594,6 +594,10 @@
 
     /* Post Meta
     ============================= */
+    .post-meta {
+      margin: 4rem 0 0 0;
+    }
+
     .post-meta-list {
       flex-direction: column;
     }
