@@ -144,8 +144,7 @@
     height: 0.2rem;
   }
 
-  /*Target the before pseudo elements of nav-link when nav-item is hover and is inside nav*/
-  .nav .nav-item:hover .nav-link::before {
+  .nav .nav-item:hover .nav-link::before { /*Target the before pseudo elements of nav-link when nav-item is hover and is inside nav*/
     background-color: var(--color-primary);
     width: 100%;
 }
