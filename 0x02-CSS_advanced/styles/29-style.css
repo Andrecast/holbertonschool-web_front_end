@@ -134,7 +134,7 @@
     padding: 0.5rem, 1rem;
   }
 
-  .nav .nav-item::before {
+  .nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
