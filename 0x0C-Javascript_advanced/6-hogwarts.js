@@ -23,6 +23,7 @@ harry.setName('Harry');
 harry.rewardStudent();
 harry.rewardStudent();
 harry.rewardStudent();
+harry.rewardStudent();
 console.log(harry.getScore());
 
 let draco = new studentHogwarts();
